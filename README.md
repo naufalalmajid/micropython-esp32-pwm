@@ -9,3 +9,5 @@ what we need?
 -Osciloscope/Multimeter suppor Duty cycle calculation
 
 -LED 
+
+by using pwm on esp32 we can make another projects like buck converter or boost converter, so it's jus basic to know how to make pulse modulation on esp32 with micropython
